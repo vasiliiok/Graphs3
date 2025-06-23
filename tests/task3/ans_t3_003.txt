@@ -1,0 +1,12 @@
+
+Spanning tree:
+// The probability of matching trees is 1/3753
+1-2
+2-10
+3-10
+4-8
+5-10
+6-10
+7-10
+8-10
+9-10

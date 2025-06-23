@@ -1,0 +1,2 @@
+Shotest paths lengths from 2:
+{1: 131, 2: 0, 3: 75, 4: 61, 5: 128}

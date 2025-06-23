@@ -1,0 +1,4 @@
+Bridges:
+ [(3, 4)]
+Cut vertices:
+ [3, 5]

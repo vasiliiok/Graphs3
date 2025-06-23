@@ -1,0 +1,5 @@
+Minimal spanning tree:
+2-4: 44
+3-5: 14
+1-4: 44
+4-5: 21

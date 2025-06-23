@@ -1,0 +1,7 @@
+Digraph is not strongly connected
+
+Strongly connected components:
+[6]
+[2, 4, 5]
+[1]
+[3]

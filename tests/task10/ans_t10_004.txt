@@ -1,0 +1,64 @@
+
+
+Vertices list in component:
+[5, 6, 8, 11, 12]
+Vertices degrees:
+[4, 4, 4, 4, 4]
+Eccentricity:
+[30.0, 34.0, 31.0, 34.0, 32.0]
+R = 30.0
+Central vertices:
+[12]
+D = 34.0
+Peripherial vertices:
+[11, 6]
+
+
+
+
+Vertices list in component:
+[4, 7, 9, 10, 14]
+Vertices degrees:
+[3, 4, 3, 4, 2]
+Eccentricity:
+[64.0, 70.0, 70.0, 45.0, 52.0]
+R = 45.0
+Central vertices:
+[7]
+D = 70.0
+Peripherial vertices:
+[14, 4]
+
+
+
+
+Vertices list in component:
+[1, 2, 3, 13]
+Vertices degrees:
+[1, 2, 3, 2]
+Eccentricity:
+[75.0, 75.0, 50.0, 68.0]
+R = 50.0
+Central vertices:
+[2]
+D = 75.0
+Peripherial vertices:
+[13, 1]
+
+
+
+
+Vertices list in component:
+[15]
+Vertices degrees:
+[0]
+Eccentricity:
+[0]
+R = 0
+Central vertices:
+[15]
+D = 0
+Peripherial vertices:
+[15]
+
+

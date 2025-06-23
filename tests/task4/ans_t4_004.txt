@@ -1,0 +1,10 @@
+Vertices degrees:
+[0, 3, 4, 5, 3, 2, 3]
+Eccentricity:
+[+Infinity, +Infinity, +Infinity, +Infinity, +Infinity, +Infinity, +Infinity]
+R = +Infinity
+Central vertices:
+[1, 2, 3, 4, 5, 6, 7]
+D = +Infinity
+Peripherial vertices:
+[1, 2, 3, 4, 5, 6, 7]

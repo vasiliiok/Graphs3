@@ -1,0 +1,13 @@
+Digraph is not strongly connected
+
+Strongly connected components:
+[4]
+[9]
+[8]
+[2]
+[6]
+[1]
+[7]
+[5]
+[10]
+[3]

@@ -1,0 +1,2 @@
+Shotest paths lengths from 4:
+{1: 9, 2: 23, 3: 12, 4: 0, 5: 28}

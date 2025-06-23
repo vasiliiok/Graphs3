@@ -1,0 +1,9 @@
+Diraph is not connected
+
+Connected components:
+[9]
+[7, 10]
+[3, 4]
+[2]
+[5]
+[1, 6, 8]

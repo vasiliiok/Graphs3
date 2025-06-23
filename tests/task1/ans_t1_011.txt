@@ -1,0 +1,10 @@
+Graph is not connected
+
+Connected components:
+[4]
+[3]
+[1, 6, 9, 10]
+[8]
+[2]
+[5]
+[7]

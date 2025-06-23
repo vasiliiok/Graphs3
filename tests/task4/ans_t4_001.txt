@@ -1,0 +1,10 @@
+Vertices degrees:
+[2, 3, 4, 3, 2]
+Eccentricity:
+[2, 2, 1, 2, 2]
+R = 1
+Central vertices:
+[3]
+D = 2
+Peripherial vertices:
+[1, 2, 4, 5]

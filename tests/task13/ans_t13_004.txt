@@ -1,0 +1,3 @@
+Size of maximum matching: 2.
+Maximum matching:
+[(15, 9, None), (3, 6, None)]
