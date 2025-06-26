@@ -55,19 +55,25 @@ def find_scc(graph: Graph):
 
     return is_strongly_connected, components
 
-#-----------------------------
-file = sys.argv[1]
-g = Graph(file, detect_file_format(file))
+def main():
+    #-----------------------------
+    file = sys.argv[1]
+    g = Graph(file, detect_file_format(file))
+    if (not g.is_directed()):
+        print("Шраф неориентированный!!!!!!")
+        return
 
-# Находим компоненты
-is_connected, scc = find_scc(g)
+    # Находим компоненты
+    is_connected, scc = find_scc(g)
 
-# Выводим результат в формате, как в примере
-if is_connected:
-    print("Digraph is strongly connected")
-else:
-    print("Digraph is not strongly connected")
+    # Выводим результат в формате, как в примере
+    if is_connected:
+        print("Digraph is strongly connected")
+    else:
+        print("Digraph is not strongly connected")
 
-print("\nStrongly connected components:")
-for component in scc:
-    print(component)
+    print("\nStrongly connected components:")
+    for component in scc:
+        print(component)
+
+main()

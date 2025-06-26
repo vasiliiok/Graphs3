@@ -112,15 +112,19 @@ def find_maximum_matching(graph):
 def main():
     file = sys.argv[1]
 
-    filetype = detect_file_format(file)
-    graph = Graph(file, filetype)
-    matching = find_maximum_matching(graph)
+    try:
+        filetype = detect_file_format(file)
+        graph = Graph(file, filetype)
+        matching = find_maximum_matching(graph)
 
-    # Выводим результат
-    print(f"Size of maximum matching: {len(matching)}.")
-    print("Maximum matching:")
-    print(matching)
+        # Выводим результат
+        print(f"Size of maximum matching: {len(matching)}.")
+        print("Maximum matching:")
+        print(matching)
 
+
+    except ValueError:
+        print("Граф не является двудольным!")
 
 if __name__ == "__main__":
     main()

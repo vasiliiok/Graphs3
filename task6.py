@@ -135,8 +135,8 @@ def run_maze_tester():
     print("--- Ваш результат ---")
     if found_path:
         print(f"Length of path from {start_point} to {end_point}: {len(found_path) - 1}")
-        # print("Path:")
-        # print(f"{found_path}")
+        print("Path:")
+        print(f"{found_path}")
     else:
         print(f"Путь от {start_point} до {end_point} не найден.")
     print("-" * 21 + "\n")
